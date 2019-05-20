@@ -8,7 +8,6 @@ namespace prog_lab7_zad4
         {
             MyRoom newMyRoom = new MyRoom();
             ClassRoom newClassRoom = new ClassRoom();
-
         }
     }
 }
